@@ -9,11 +9,11 @@
 ## Usage
 
 ​`$("span").linkIt({`
-​           `href: "<http://test.com>",`
+​             `href: "<http://test.com>",`
 
-​          `text: "Click Me",`
-
-​          `target: "_blank"`
+​             `text: "Click Me",`
+  
+​             `target: "_blank"`
 
 ​`});`
 
