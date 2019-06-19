@@ -8,7 +8,6 @@
 
 ## Usage
 
-<<<<<<< HEAD
 ​    $("span").linkIt({
 
 ​          href: "http://test.com",
