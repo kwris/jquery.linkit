@@ -19,10 +19,8 @@
 
 ​        });
 
-## Vendors##
-=======
 ## Vendors
->>>>>>> 63b834dc31dc6890f75ca785e52b2b71949a96e8
+
 
 jQuery - [http://jquery.com](http://jquery.com)
 
