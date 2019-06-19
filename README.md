@@ -8,22 +8,17 @@
 
 ## Usage
 
-<<<<<<< HEAD
-​    $("span").linkIt({
+`$("span").linkIt({`
 
-​          href: "http://test.com",
+​          `href: "<http://test.com>",`
 
-​          text: "Click Me",
+​          `text: "Click Me",`
 
-​          target: "_blank"
+​          `target: "_blank"`
 
-​        });
+​`});`
 
 ## Vendors##
-=======
-## Vendors
->>>>>>> 63b834dc31dc6890f75ca785e52b2b71949a96e8
-
 jQuery - [http://jquery.com](http://jquery.com)
 
 ## License
