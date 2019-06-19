@@ -8,7 +8,7 @@
 
 ## Usage
 
-​    $("span").linkIt({
+$("span").linkIt({
 
 ​          href: "http://test.com",
 
