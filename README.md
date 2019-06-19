@@ -7,8 +7,6 @@
 0.2.0
 
 ## Usage
-
-<<<<<<< HEAD
 `$("span").linkIt({`
 =======
 $("span").linkIt({
